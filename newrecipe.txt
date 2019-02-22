@@ -1,0 +1,4 @@
+1. open a new text file
+2. save as the name of the recipe you wish to create
+3. type recipe
+4. save
